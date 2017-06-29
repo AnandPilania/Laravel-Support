@@ -18,6 +18,5 @@
             "AP\\Support\\": ""
         }
     },
-	"suggest": {},
-	"minimum-stability": "stable"
+	"suggest": {}
 }
