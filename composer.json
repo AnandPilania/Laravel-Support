@@ -15,7 +15,7 @@
 	},
 	"autoload": {
         "psr-4": {
-            "Anand\\Support\\": ""
+            "AP\\Support\\": ""
         }
     },
 	"suggest": {},

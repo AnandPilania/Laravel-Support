@@ -1,6 +1,6 @@
 <?php
 
-namespace Anand\Support;
+namespace AP\Support;
 
 class Collection {
 	protected $table;

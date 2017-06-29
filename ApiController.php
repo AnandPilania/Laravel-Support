@@ -1,6 +1,6 @@
 <?php
 
-namespace Anand\Support;
+namespace AP\Support;
 
 abstract class ApiController extends Controller
 {

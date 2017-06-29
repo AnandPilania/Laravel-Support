@@ -1,6 +1,6 @@
 <?php
 
-namespace Anutiger\Support;
+namespace AP\Support;
 
 use Illuminate\Support\ServiceProvider as Base;
 
