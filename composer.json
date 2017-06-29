@@ -1,0 +1,23 @@
+{
+    "name": "anandpilania/laravel-support",
+    "description": "Support package contains base classes that will extend core laravel classes and enhance the functionality.",
+	"keywords": ["laravel", "anandpilania", "support"],
+    "license": "MIT",
+	"version": "1.0.0",
+    "authors": [
+        {
+            "name": "Anand Pilania",
+            "email": "pilaniaanand@gmail.com"
+        }
+    ],
+	"require": {
+		"laravel/framework": "^5.3"
+	},
+	"autoload": {
+        "psr-4": {
+            "Anand\\Support\\": ""
+        }
+    },
+	"suggest": {},
+	"minimum-stability": "stable"
+}
